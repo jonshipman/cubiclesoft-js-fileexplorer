@@ -1,0 +1,14 @@
+{
+	"name": "@cubiclesoft/js-fileexplorer",
+	"version": "22.5.14",
+	"description": "A zero dependencies, customizable, pure Javascript widget for navigating, managing, uploading, and downloading files and folders or other hierarchical object structures on any modern web browser.",
+	"main": "file-explorer/file-explorer.js",
+	"repository": "https://github.com/cubiclesoft/js-fileexplorer.git",
+	"author": "cubiclesoft",
+	"license": "MIT",
+	"private": true,
+	"exports": {
+		".": "./file-explorer/file-explorer.js",
+		"./css": "./file-explorer/file-explorer.css"
+	}
+}
