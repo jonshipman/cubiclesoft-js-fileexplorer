@@ -6,9 +6,5 @@
 	"repository": "https://github.com/cubiclesoft/js-fileexplorer.git",
 	"author": "cubiclesoft",
 	"license": "MIT",
-	"private": true,
-	"exports": {
-		".": "./file-explorer/file-explorer.js",
-		"./css": "./file-explorer/file-explorer.css"
-	}
+	"private": true
 }
